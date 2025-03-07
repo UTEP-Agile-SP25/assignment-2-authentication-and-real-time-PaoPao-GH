@@ -1,0 +1,30 @@
+{
+  "name": "assignment-2-authentication-and-real-time-paopao-gh",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SknQUJ55)\r # Assignment 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "webpack serve --open --mode=development",
+    "build": "webpack --mode=development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-PaoPao-GH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-PaoPao-GH/issues"
+  },
+  "homepage": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-PaoPao-GH#readme",
+  "devDependencies": {
+    "firebase": "^11.4.0",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.0"
+  }
+}
